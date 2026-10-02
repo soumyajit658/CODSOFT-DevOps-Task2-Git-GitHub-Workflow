@@ -1,0 +1,12 @@
+CODSOFT DevOps Task 2
+
+Git & GitHub Workflow
+
+This project demonstrates:
+- Git repository management
+- Commits
+- Branching
+- Pull requests
+- Code reviews
+- Merge conflict resolution
+- GitHub collaboration workflow
