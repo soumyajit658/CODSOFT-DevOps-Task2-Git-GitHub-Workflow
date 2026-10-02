@@ -1,3 +1,14 @@
 CODSOFT DevOps Task 2
-This line was changed directly on the main branch.
-Git conflict demonstration.
+
+Git & GitHub Workflow
+
+This project demonstrates:
+- Git repository management
+- Commits
+- Branching
+- Pull requests
+- Code reviews
+- Merge conflict resolution
+- GitHub collaboration workflow
+
+Conflict resolved successfully between main and feature branches.
